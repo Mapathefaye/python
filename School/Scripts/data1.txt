@@ -1,0 +1,10 @@
+gene283245	chr_V	0.8	cytosol	nuclease
+gene10098	chr_V	0.9	nucleus	Histidine kinase
+gene386521	chr_III	1.8	cytosol	3' helicase
+gene22271	chr_VI	0.0	cytosol	RecA
+gene87126	chr_X	0.9	cell membrane	TM protein 
+gene287636	chr_II	0.0	nucleus	unknown
+gene37269	chr_III	0.4	cell membrane	hypothetical 
+gene88950	chr_II	0.3	cytosol	pep_signal
+gene21321	chr_VII	0.12	nucleus	kinase-like
+gene32998	chr_II	0.87	nucleus	unannotated
